@@ -1,4 +1,5 @@
 // this code is a work in progress, it main feature is to add google calendar maintenance event:
+// this files located ar google apps script
 
 function addevent(status, location, type, power) {
     //setting:
